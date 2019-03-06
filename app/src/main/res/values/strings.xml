@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Tennis_score</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_match">MatchActivity</string>
+    <string name="addScore1">+</string>
+    <string name="delScore1">-</string>
+    <string name="score1">0</string>
+    <string name="score2">0</string>
+    <string name="addScore2">+</string>
+    <string name="delScore2">-</string>
+    <string name="gameEnd">Матч окончен</string>
+    <string name="gameInfo">Информация о матче</string>
+    <string name="startGame">Старт</string>
+    <string name="player2">Игрок 2</string>
+    <string name="sets5">5 сетов</string>
+    <string name="sets7">7 сетов</string>
+    <string name="player1">Игрок 1</string>
+    <string name="timeout">Таймаут</string>
+    <string name="brake1">Подача игрок1</string>
+    <string name="brake2">Подача игрок 2</string>
+    <string name="title_activity_choose_players">ChoosePlayers</string>
+    <string name="tournament">Турнир</string>
+    <string name="Game">Матч</string>
+    <string name="ChoosePlayers">Выбрать</string>
+    <string name="OpenChoosePlayers">Выбрать игроков</string>
+    <string name="gamePause">Пауза</string>
+    <string name="button">Назад</string>
+    <string name="title_activity_new_match_activity">NewMatch_activity</string>
+    <string name="plus1">+</string>
+    <string name="timeout1">Таймаут</string>
+    <string name="plus2">+</string>
+    <string name="timeout2">Таймаут</string>
+    <string name="back">Назад</string>
+    <string name="pause">Пауза</string>
+    <string name="button22" />
+</resources>
